@@ -1,0 +1,10 @@
+[package]
+name = "wgpu_dyn_buffer"
+version = "1.0.0"
+edition = "2021"
+description = "Wgpu Dynamic Buffer"
+license = "BSD-3-Clause"
+repository = "https://github.com/CalebCouch/wgpu_dyn_buffer.git"
+
+[dependencies]
+wgpu = "22.1.0"
